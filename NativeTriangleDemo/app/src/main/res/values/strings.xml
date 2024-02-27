@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NativeTriangleDemo</string>
+    <string name="rotation_angle_caption">Angle: %1$s degrees</string>
+</resources>
